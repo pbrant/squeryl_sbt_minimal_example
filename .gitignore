@@ -2,4 +2,7 @@
 lib_managed
 minimalexample.iml
 target
-
+.classpath
+.project
+.scala_dependencies
+.target/
