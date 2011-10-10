@@ -1,7 +1,6 @@
 package code
 
 import org.squeryl._
-import adapters.MySQLAdapter
 import PrimitiveTypeMode._
 import org.squeryl.adapters.H2Adapter
 
